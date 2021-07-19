@@ -1,4 +1,4 @@
-# pycalc
+# calculator
 A basic calculator which can parse and evaluate textual input. Expressions are entered through the command-line and the evaluated value is displayed.
 
 This program was created as part of a programming task for a job application. I completed this part of the task in roughly 2 hours.
